@@ -1,0 +1,45 @@
+<html>
+    <head>
+         <title>school</title>
+        </head>
+
+
+        <body>
+             <header>
+                   <h1>Learning with Lee</h1>
+                     <img src="http://learingwithlee.files.wordpress.com/2018/09web-desing-
+
+                    intro.jpg?w=625&h=310&crop=1"alt="coding text book, laptop, and notebook"/>
+                        </header>
+ 
+
+                        <h1>Lesson List</h1>
+ 
+                                <ul>
+  
+                        <li>a href="#lesson1">Lesson1</a></li>
+                        <li>a href="#lesson2">Lesson2</a></li>
+                        <li>a href="#lesson3">Lesson3</a></li>
+                        <li>a href="#lesson4">Lesson4</a></li>
+                        <li>a href="#lesson5">Lesson5</a></li>
+                        <li>a href="#lesson6">Lesson6</a></li>
+                        <li>a href="#lesson7">Lesson7</a></li>
+
+
+
+                          </ul>
+
+
+                         <h2 id="lesson1">
+                          <a href="./lessons/lesson1.html"target="_blank">Lesson 1</a>
+                          </h2>
+                          <div>
+
+
+                          <video scr="../../dropbox/lee/ep/website/videos/screencast-o-matic/recordings/HTML-
+                       lessons/lesson1.mp4" width="600"controls>
+                             </div>
+ 
+
+                            <h2 id="lesson2">
+                              <a href="./lesson/lesson2.html"target="_blank">Lesson 2</a>

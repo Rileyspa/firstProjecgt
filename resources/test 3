@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+
+<span id="Macedonia">Macedonia</span>
+
+<span id="Germany">Germany</span>
+
+<span id="Turkey">Turkey</span>
+
+<span id="Poland">Poland</span>
+
+<link href="./style.css" type="text/css" rel="stylesheet"/>
